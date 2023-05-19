@@ -190,6 +190,15 @@ This command is going to start the local server so that we can access Jupyter us
 
 If Jupyter does not automatically open in your browser, please go ahead and copy one of the URLs at the bottom of the text generated after running the launch command.
 
+Paste it on your favourite browser and press the enter button. The URLs are similar to the ones shown below.  
+<pre>
+    To access the server, open this file in a browser:
+        file:///C:/Users/DELL/AppData/Roaming/jupyter/runtime/jpserver-7032-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=a0c75e2eae58811cdeb865de74e6b4489bfb2f6589ec9e63
+      or http://127.0.0.1:8888/lab?token=a0c75e2eae58811cdeb865de74e6b4489bfb2f6589ec9e63
+</pre>
+
 This will open a window that is shown below in the browser. In this case, JupyterLab has been set to a dark theme, however, it may also open in white mode which can be changed under the setting menu
 
 To proceed we need to click on Python 3 which is the first tab on this window. 
